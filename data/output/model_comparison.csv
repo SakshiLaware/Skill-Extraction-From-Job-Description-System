@@ -1,0 +1,7 @@
+method,precision,recall,f1,avg_time_ms,n_scored,note
+Dictionary Matching,1.0,1.0,1.0,12.165,2412,used as reference/pseudo-ground-truth
+Regex,1.0,0.903,0.949,1.868,2412,scored on the skill subset Regex attempts
+TF-IDF (proxy),1.0,1.0,1.0,85.264,2412,proxy: taxonomy skills present among a doc's top TF-IDF terms -- not a native extractor
+ML Classifier (weak-labeled),0.875,0.875,0.875,0.565,200,"CATEGORY-level metric (not per-skill) -- predicts skill category, not individual skills"
+NER (spaCy),1.0,1.0,1.0,285.157,200,sampled 200 rows; entities matched against taxonomy + dictionary pass
+Transformer,0.996,1.0,0.998,525.087,200,sampled 200 rows; dslim/bert-base-NER + dictionary pass

@@ -1,0 +1,46 @@
+skill,category,aliases
+Python,Programming Language,"python3, python 3, python programming, python development"
+Java,Programming Language,java programming
+C++,Programming Language,"cpp, c plus plus"
+C#,Programming Language,c sharp
+JavaScript,Programming Language,"js, javascript programming"
+TypeScript,Programming Language,ts
+R,Programming Language,"r programming, r language"
+SQL,Database,"structured query language, sql server, sql database"
+MySQL,Database,my sql
+PostgreSQL,Database,"postgres, postgresql database"
+MongoDB,Database,"mongo db, mongo"
+Excel,Data Analytics,"ms excel, microsoft excel"
+Power BI,Data Analytics,"powerbi, power-bi, power bi desktop"
+Tableau,Data Analytics,tableau software
+Pandas,Machine Learning,pandas library
+NumPy,Machine Learning,numpy library
+Scikit-learn,Machine Learning,"scikit learn, sklearn"
+TensorFlow,Machine Learning,tensor flow
+PyTorch,Machine Learning,torch
+Machine Learning,Machine Learning,"ml, machine-learning"
+Deep Learning,Machine Learning,"dl, deep-learning"
+Natural Language Processing,Machine Learning,nlp
+Computer Vision,Machine Learning,cv
+Data Science,Machine Learning,data-science
+AWS,Cloud,amazon web services
+Azure,Cloud,microsoft azure
+GCP,Cloud,"google cloud platform, google cloud"
+Docker,DevOps,containerization
+Kubernetes,DevOps,k8s
+Git,DevOps,"github, version control"
+Spark,Data Engineering,"apache spark, pyspark"
+Hadoop,Data Engineering,apache hadoop
+React,Web Development,"react.js, reactjs"
+Node.js,Web Development,"node, nodejs"
+HTML,Web Development,html5
+CSS,Web Development,css3
+Communication,Soft Skills,communication skills
+Leadership,Soft Skills,leadership skills
+Project Management,Soft Skills,"pmp, project-management"
+Customer Service,Soft Skills,customer-service
+Sales,Soft Skills,sales experience
+Marketing,Soft Skills,marketing experience
+Adobe Photoshop,Design,photoshop
+Adobe Illustrator,Design,illustrator
+Microsoft Office,Office Tools,"ms office, office suite"
